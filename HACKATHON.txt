@@ -4,7 +4,7 @@ Developers- Who Writes Code
 Operations-Who Develop/manage systems
 --> Work together, instead of working in silos
 ⦁	code is automatically tested and deployed
-⦁	it reduces time and bugs 
+⦁	it reduces time and bugs esther 
 
 
 REAL TIME EXAMPLE:
@@ -30,4 +30,5 @@ EIGHT PHASES OF DEVELOPMENT
 
 GitHub Basics:
 git--version control system(local)
+
 github--online platforms to store git projects
