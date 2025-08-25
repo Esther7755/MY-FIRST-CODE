@@ -32,3 +32,14 @@ GitHub Basics:
 git--version control system(local)
 
 github--online platforms to store git projects
+
+Devops visualizing: Bringing process to life with diagrams.net
+1.Develop involves multiple stages-like plan,develop,build,test,release,deploy,operte,monitor.
+2.using diagrams.net helps students see the full flow clearly,instead of just reading theory.
+
+COMMON SHAPES AND THEIR MEANINGS
+1.rectangle=process/task
+2.diamond= decision
+3.oval/ellipse=start/end
+4.parallelogram=input/output
+5.document=document
